@@ -1,1 +1,1 @@
-conflict1.2
+Feature same line
